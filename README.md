@@ -24,7 +24,6 @@ To use this app:
 2. Open the project in your preferred Flutter development environment.
 3. Ensure that all dependencies are installed by running `flutter pub get`.
 4. Set up Firebase for your project as outlined above.
-5. Implement the necessary Firebase services (Firestore, Authentication, etc.) to enable the functionality of the shopping list app.
-6. Build and run the app on your preferred device or emulator.
+5. Build and run the app on your preferred device or emulator.
 
 Feel free to explore the codebase and customize it according to your requirements!
